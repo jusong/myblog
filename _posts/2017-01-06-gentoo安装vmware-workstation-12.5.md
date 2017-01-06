@@ -1,4 +1,5 @@
 ---
+layout: page
 layout: post
 title:  "gentoo安装vmware-workstation-12.5"
 date:   2017-01-06 02:28:47 +0800

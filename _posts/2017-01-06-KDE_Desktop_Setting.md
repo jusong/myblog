@@ -1,4 +1,5 @@
 ---
+layout: page
 layout: post
 title:  "KDE_Desktop_Setting"
 date:   2017-01-06 02:28:47 +0800
